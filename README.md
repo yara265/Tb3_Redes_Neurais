@@ -1,4 +1,4 @@
-# Identificação de Jogadores com Rede Neural
+# Classificação de Recorrência de Doença da Tireoide
 
 ## Equipe
 - **Caroline Pereira da Silva**
@@ -9,7 +9,8 @@
 - **Yara Nunes de Oliveira**
 
 ## Descrição
-Este projeto visa desenvolver uma rede neural para identificar jogadores de futebol a partir de um dataset de fotos. Utilizamos técnicas de machine learning para treinar e avaliar o modelo, buscando alta precisão na identificação.
+O sistema visa prever se um paciente terá recorrência da doença da tireoide com base nos atributos fornecidos.
+
 
 ## Objetivo
-O objetivo principal é criar um modelo de rede neural que possa identificar com precisão jogadores de futebol a partir das fotos fornecidas no dataset. Isso ajudará a automatizar a análise e identificação de jogadores, facilitando o trabalho em áreas como scouting e análise de desempenho.
+Implementar e avaliar modelos de aprendizado de máquina para prever a recorrência da doença, assegurando que o modelo escolhido tenha uma alta precisão e recall.
