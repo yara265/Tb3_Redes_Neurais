@@ -14,3 +14,6 @@ O sistema visa prever se um paciente terá recorrência da doença da tireoide c
 
 ## Objetivo
 Implementar e avaliar modelos de aprendizado de máquina para prever a recorrência da doença, assegurando que o modelo escolhido tenha uma alta precisão e recall.
+
+##Link do dataset utilizado
+https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence
