@@ -8,6 +8,8 @@
 - **Leonardo da Silva Martins**
 - **Yara Nunes de Oliveira**
 
+
+
 ## Descrição
 O sistema visa prever se um paciente terá recorrência da doença da tireoide com base nos atributos fornecidos.
 
