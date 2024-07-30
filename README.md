@@ -1,7 +1,7 @@
 # Classificação de Recorrência de Doença da Tireoide
 
 ## Equipe
-- **Caroline Pereira da Silva**
+- **Caroline Pereira de Souza**
 - **Danilo Bruno da Silva**
 - **Eric Dias Perin**
 - **Kirk Matos Isaac Sahdo**
